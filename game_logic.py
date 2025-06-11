@@ -34,7 +34,7 @@ def play_game():
 
         guessed_letters = []
         mistakes = 0
-        max_mistakes = 4
+        max_mistakes = len(ascii_art.STAGES) - 1
 
         while True:
             display_game_state(mistakes, secret_word, guessed_letters)
