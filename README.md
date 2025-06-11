@@ -27,12 +27,11 @@ The code demonstrates:
 - If you **guess all letters in time**, you win and can start a new round immediately.
 
 ## Project Structure
-. 
-├── ascii_art.py # Contains the STAGES list with the snowman frames 
-├── game_logic.py # Full game logic (input + game loop) 
-├── snowman.py # Mini entry point to start the game 
-└── README.md # This file
 
+- ascii_art.py: Contains the STAGES list with the snowman frames
+- game_logic.py: Full game logic (input + game loop)
+- snowman.py: Mini entry point to start the game
+- README.md: This file
 
 ## Installation & Execution
 
