@@ -1,4 +1,4 @@
-# Snowman Meltdown
+# Meltdown-Snowman
 
 **Practice project for the Masterschool Software Engineering course from Term 4: "Version Control and Testing"**
 
